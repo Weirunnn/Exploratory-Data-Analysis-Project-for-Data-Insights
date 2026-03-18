@@ -1,17 +1,30 @@
-# R Exploratory Data Analysis
+# Exploratory Data Analysis in R
 
-This project demonstrates exploratory data analysis using R and R Markdown.
+## Overview
+This project performs exploratory data analysis (EDA) using R to uncover patterns, trends, and relationships within a dataset.
 
-The analysis includes data cleaning, descriptive statistics, and visualization
-to better understand patterns in the dataset.
+## Purpose
+The goal of this project is to demonstrate how data can be explored and analyzed to generate insights and support decision-making.
 
-## Tools
+## Features
+- Data cleaning and preprocessing
+- Summary statistics
+- Pattern and trend discovery
+- Data visualization
+- Insight generation
 
+## Tech Stack
 - R
-- R Markdown
+- Data Analysis
 - Data Visualization
-- Statistical Analysis
 
-## Author
+## What I Learned
+- Exploratory data analysis techniques
+- Identifying patterns in datasets
+- Data cleaning and transformation
+- Communicating insights through visualization
 
-Weiran Zeng
+## Future Improvements
+- Build automated analysis pipeline
+- Add interactive dashboards
+- Integrate with larger data workflows
