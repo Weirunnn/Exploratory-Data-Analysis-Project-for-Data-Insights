@@ -43,4 +43,4 @@ It helps organizations understand their data before building advanced models.
 ---
 
 ## Author
-JC EXPRESS – AI, Data, Software & Automation Solutions
+J & C EXPRESS – AI, Data, Software & Automation Solutions
